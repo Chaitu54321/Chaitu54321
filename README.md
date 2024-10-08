@@ -51,37 +51,37 @@
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/verify/AVG8BPQRVN6Z" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Google_logo_2015.svg" height="40" alt="Google" style="margin-right: 15px;"/>
+    <img src="https://w7.pngwing.com/pngs/882/225/png-transparent-google-logo-google-logo-google-search-icon-google-text-logo-business-thumbnail.png" height="40" alt="Google" style="margin-right: 15px;"/>
   </a>
-  <span>Crash Course on Python by Google</span>
+  <span><b> Crash Course on Python by Google</b></span>
 </p>
 
-<p align="center">
+<p align="center"> 
   <a href="https://www.guvi.in/verify-certificate?id=74918SwFj84Lg38y20" target="_blank">
-    <img src="https://www.guvi.in/favicon.ico" height="40" alt="GUVI" style="margin-right: 15px;"/>
+   <img src="https://play-lh.googleusercontent.com/CLgcmJ7TRmQIGBy8f8KBN1BDHbpmerwj_fgEriggjhaUIYO4mnfTHjqdF1d0ZNy1ziw" height="40" alt="GUVI" style="margin-right: 15px;"/>
   </a>
-  <span>Generative AI by GUVI</span>
+  <span><b> Generative AI by GUVI</b></span>
 </p>
 
 <p align="center">
   <a href="https://www.cloudskillsboost.google/public_profiles/d27c1b92-d4d2-4849-a4f0-cff46dbc1592/badges/9357836?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Google_logo_2015.svg" height="40" alt="Google" style="margin-right: 15px;"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0VHDOxCghUTnDn_T4XDgk8zQYvYnme-vWWr-nm8Ijsk0A21qGnvNg1DhlonwHogoyDRs&usqp=CAU" height="40" alt="Google" style="margin-right: 15px;"/>
   </a>
-  <span>Introduction to LLM by Google Skill Boost</span>
+  <span><b> Introduction to LLM by Google Skill Boost</b></span>
 </p>
 
 <p align="center">
   <a href="YOUR_CREDENTIAL_ID_LINK_FOR_INFOSYS" target="_blank">
-    <img src="https://www.infosys.com/favicon.ico" height="40" alt="Infosys" style="margin-right: 15px;"/>
+    <img src="https://www.infosys.com/content/dam/infosys-web/en/global-resource/18/springboard-logo.png" height="40" alt="Infosys" style="margin-right: 15px;"/>
   </a>
-  <span>Advanced HTML by Infosys Springboard</span>
+  <span><b> Advanced HTML by Infosys Springboard</b></span>
 </p>
 
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/5b62fbd616fc" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/HackerRank_logo.svg/512px-HackerRank_logo.svg.png" height="40" alt="HackerRank" style="margin-right: 15px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/600px-HackerRank_Icon-1000px.png" height="40" alt="HackerRank" style="margin-right: 15px;"/>
   </a>
-  <span>CSS by HackerRank</span>
+  <span><b> CSS by HackerRank</b></span>
 </p>
 
 ---
