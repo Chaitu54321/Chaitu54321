@@ -23,11 +23,10 @@
 
 ### 🌟 About Me:
 - 🔭 I’m currently working on improving my machine learning skills.
-- 🌱 I’m currently learning about deep learning and data science.
 - 👯 I’m looking to collaborate on interesting ML and AI projects.
 - 🏅 I have completed internships at **Google** and **Swecha**.
 - ⚡ I maintain streaks for solving problems on [LeetCode](https://leetcode.com/) and [GeeksforGeeks](https://www.geeksforgeeks.org/).
-
+- 💻 I've worked on face recognition projects using OpenCV
 ---
 
 ### 📊 Leetcode Stats:
@@ -39,6 +38,8 @@
 ### 📊 Geeksforgeeks Stats:
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://auth.geeksforgeeks.org/user/tsrichaitanz9ja/profile)
 
+- Maintained 90+ POTD streaks
+- Gained good knowledge on DSA
 ---
 
 ### 🔗 Connect with Me:
