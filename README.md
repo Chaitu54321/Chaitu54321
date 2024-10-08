@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/chaitu_1702?ext=heatmap)
+
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://auth.geeksforgeeks.org/user/tsrichaitanz9ja/profile)
+
