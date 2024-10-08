@@ -39,8 +39,25 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://auth.geeksforgeeks.org/user/tsrichaitanz9ja/profile)
 
 - Maintained 90+ POTD streaks
-- Gained good knowledge on DSA
+- Gained good knowledge of DSA
 ---
+### 🗂 Internships
+-Virtual Internship in Google(provided by AICTE)
+
+-Internship in Swecha, Telangana on training an LLM about preserving culture
+---
+
+### 🧾 Certifications:
+
+-Crash course on Python by Google
+
+-Generative AI by GUVI
+
+-Introduction to LLM by Google Skill Boost
+
+-Advanced HTML by Infosys Springboard
+
+-CSS by Hackerrank
 
 ### 🔗 Connect with Me:
 <p align="center">
