@@ -42,11 +42,11 @@
 - Gained good knowledge of DSA
 ---
 ### 🗂 Internships
--Virtual Internship in Google(provided by AICTE)
-
--Internship in Swecha, Telangana on training an LLM about preserving culture
+- **Google**: Virtual Internship (provided by AICTE)
+- **Swecha**: Internship on training an LLM about preserving culture
 
 ---
+
 ### 🧾 Certifications:
 
 <p align="center">
@@ -93,12 +93,8 @@
   <a href="mailto:tsrichaitanyamanideep@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" style="margin-right: 15px;"/> <!-- Adding right margin -->
   </a>
-
+</p>
 
 ---
 
 <p align="center">💻 Built with ❤️ by Sri Chaitanya Manideep</p>
-
-
-
-
