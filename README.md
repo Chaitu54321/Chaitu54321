@@ -51,12 +51,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" style="margin-right: 15px;"/> <!-- Adding right margin -->
   </a>
 
----
-
-### 🚀 Check Out My Projects:
-
-- [AI-Powered Medical Assistant](#)
-
 
 ---
 
