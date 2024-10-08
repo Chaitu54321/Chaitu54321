@@ -43,7 +43,7 @@
 
 ### 🔗 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/sri-chaitanya-manideep/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" style="margin-right: 15px;"/> <!-- Adding right margin -->
   </a>
   <a href="mailto:tsrichaitanyamanideep@gmail.com" target="_blank">
