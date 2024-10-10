@@ -95,7 +95,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" style="margin-right: 15px;"/> <!-- Adding right margin -->
   </a>
   <a href="mailto:tsrichaitanyamanideep@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" style="margin-right: 15px;"/> <!-- Adding right margin -->
+    <img src="https://w7.pngwing.com/pngs/799/918/png-transparent-mail-google-gmail-google-s-logo-icon-thumbnail.png" height="40" alt="Gmail" style="margin-right: 15px;"/> <!-- Adding right margin -->
   </a>
 </p>
 
