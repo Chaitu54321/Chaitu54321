@@ -32,6 +32,11 @@
 ---
 
 ### 📊 Leetcode Stats:
+
+<p align="center">
+  <a href="https://leetcode.com/chaitu_1702/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a> 
+</p>
+
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/chaitu_1702?ext=heatmap" />
 </div>
