@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sri Chaitanya Manideep 👋</h1>
 
 <p align="center">
-  <i>Aspiring Machine Learning Engineer | B.Tech 2nd Year at Anurag University</i><br>
+  <i>Aspiring Machine Learning Engineer | Bachelor of Technology 2nd Year at Anurag University</i><br>
   <i>Internships @ Google, Swecha | LeetCode & GeeksforGeeks Problem Solver</i>
 </p>
 
