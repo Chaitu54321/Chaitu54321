@@ -47,7 +47,7 @@
 ### 📊 Geeksforgeeks Stats:
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://auth.geeksforgeeks.org/user/tsrichaitanz9ja/profile)
 
-- Maintaining 70+ POTD streaks
+- Maintaining 130+ POTD streaks
 - Gained good knowledge on DSA
 ---
 ### 🗂 Internships
