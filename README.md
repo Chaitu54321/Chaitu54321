@@ -27,7 +27,7 @@
 ### 🌟 About Me:
 - 🔭 I’m currently working on improving my machine learning skills.
 - 👯 I’m looking to collaborate on interesting ML and AI projects.
-- 🏅 I have completed internships at **Google** and **Swecha**.
+- 🏅 I had completed an internships at **Swecha**.
 - ⚡ I maintain streaks for solving problems on [LeetCode](https://leetcode.com/) and [GeeksforGeeks](https://www.geeksforgeeks.org/).
 - 💻 I've worked on face recognition projects using OpenCV
 ---
