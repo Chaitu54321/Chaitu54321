@@ -55,6 +55,7 @@
 - Gained good knowledge on DSA
 ---
 ### 🗂 Internships
+- **Infosys**:Springboard Internship 6.0
 - **Google**: Virtual Internship (provided by AICTE)
 - **Swecha**: Internship on training an LLM about preserving culture
 
