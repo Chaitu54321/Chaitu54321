@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>Aspiring Machine Learning Engineer | Bachelor of Technology 3rd Year at Anurag University</i><br>
-  <i>Internships @ Infosys, Swecha | LeetCode & GeeksforGeeks Problem Solver</i>
+  <i>Internships @ Infosys, Swecha | LeetCode & GeeksforGeeks Problem Solver </i>
 </p>
 
 ---
